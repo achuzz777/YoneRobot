@@ -74,8 +74,14 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/ebf62ff4c5668adcfa28c.jpg), ɪᴍ ʏᴏɴᴇ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
-`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help   
+_Hello_ *{}*
+My name is *{}*\n_I am an advanced Group Management Bot
+I can manage your group very easily🧚‍♀ & safely🔒. You can keep trust on me without any doubt💯
+
+Try using me!⚡️
+
+/help Use For Get Command❤️_
+_MY MastEr👨‍💻_ [{}](tg://user?id={})   
 """
 
 buttons = [
